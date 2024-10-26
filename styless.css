@@ -1,0 +1,16 @@
+.wrapper{
+    width: 90%;
+    margin: 10px 50px 20px 0px; 
+}
+.col1
+{
+    width: 25%;
+    float:left;
+    background-color: #fff;
+}
+.col2
+{
+    width: 70%;
+    float:right;
+    background-color: #fff;
+}
